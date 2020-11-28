@@ -7,6 +7,26 @@
 |性别 | 男  | | |
 
 <br />
+
+
+- [基本资料](#基本资料)
+- [工作经历](#工作经历)
+  - [上海众多美网络科技有限公司（人人视频）](#上海众多美网络科技有限公司人人视频)
+  - [上海麒谋投资管理有限公司](#上海麒谋投资管理有限公司)
+- [相关技能](#相关技能)
+- [项目经历](#项目经历)
+  - [番茄电影](#番茄电影)
+  - [前端组件库](#前端组件库)
+  - [资源管理中心](#资源管理中心)
+  - [BFF项目](#bff项目)
+- [个人项目](#个人项目)
+  - [vue-float-action-button](#vue-float-action-button)
+  - [vue-dialog-x](#vue-dialog-x)
+  - [flutter-danmaku](#flutter-danmaku)
+  - [蜻蜓解析助手](#蜻蜓解析助手)
+
+
+
 <br />
 
 # 工作经历
@@ -29,6 +49,15 @@
 1. 负责公司基于cordova技术的混合应用开发
 2. 负责产品性能的优化 负责产品缓存相关的设计
 3. 基于ECharts数据类图表的开发
+
+# 相关技能
+
+1. Typescript Dart JavaScript
+2. Vue Flutter Eggjs Nodejs 小程序啥的
+3. SQLite MongoDB Redis MySQL
+4. Redux Vuex
+5. 单元测试 集成测试 GitHub CI Gitlab CI Jenkins
+6. VuePress ApiDoc
 
 # 项目经历
 
@@ -88,7 +117,7 @@
 
 # 个人项目
 
-## vue-float-action-button(https://github.com/a62527776a/vue-fab)
+## vue-float-action-button
 
 
 <a href="https://www.npmjs.com/package/vue-float-action-button">
@@ -101,24 +130,24 @@
     <img src="https://img.shields.io/github/stars/a62527776a/vue-floating-action-button.svg?style=social" />
   </a>
 个人开发的vue组件 文档清晰 API设计良好 使用VuePress编写文档
-[https://a62527776a.github.io/](https://a62527776a.github.io/)
+https://github.com/a62527776a/vue-fab
 
-## vue-dialog-x (https://github.com/a62527776a/vue-dialog-x)
+## vue-dialog-x
 
 <hr />
 
-<p align="center">
   <a href='https://coveralls.io/github/a62527776a/vue-dialog-x?branch=master'><img src='https://coveralls.io/repos/github/a62527776a/vue-dialog-x/badge.svg?branch=master' alt='Coverage Status' /></a>
   <a href="https://www.npmjs.com/package/vue-dialog-x"><img src="https://img.shields.io/npm/dm/vue-dialog-x.svg" /></a>
   <br>
   </a>
   <img alt="npm type definitions" src="https://img.shields.io/npm/types/vue-dialog-x">
-  <img alt="npm" src="https://img.shields.io/npm/v/vue-dialog-x">
-  <p style="text-align: center">支持Promise的iOS样式风格的弹窗提示 基于Typescript开发 已在公司内长期稳定使用</p>
-</p>
+  <img alt="npm" src="https://img.shields.io/npm/v/vue-dialog-x">  
+  
+支持Promise的iOS样式风格的弹窗提示 基于Typescript开发 已在公司内长期稳定使用
+https://github.com/a62527776a/vue-dialog-x
 
 
-## flutter-danmaku (https://github.com/flutte-danmaku/flutter_danmaku)
+## flutter-danmaku
 <hr />
 <br />
 
@@ -129,6 +158,7 @@
 
 Flutter 弹幕项目， 纯Dart开发，实现市面成熟弹幕所有功能
 
+https://github.com/flutte-danmaku/flutter_danmaku
 ******
 
 ## 蜻蜓解析助手
